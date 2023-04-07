@@ -27,7 +27,8 @@ public class ExercicioVariosVetores {
             nome[i] = sc.nextLine();
             System.out.println("Idade: ");
             idade[i] = sc.nextInt();
-            System.out.println("Altura : ");
+            System.out.println("Altura 
+            : ");
             altura[i] = sc.nextDouble();
 
             // Limpar o buffer do Scanner
